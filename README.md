@@ -1,2 +1,2 @@
 # DressExposure
-Check for correlation between daylight exposure and perception of #TheDress
+Use tweet info to investigate perception of #TheDress
