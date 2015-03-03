@@ -35,7 +35,7 @@ id_24 = "571459774522494976"
 
 ## Locations
 #myg = "51.5072,0.1275,200km" #London+200km, UK
-myg = "53.4000,3.0000,500km" #Liverpool+500km, UK
+myg = "53.4000,-3.0000,500km" #Liverpool+500km, UK
 #myg = "-90.0000,0.0000,3000km" #Antarctica
 
 ## SEARCH ##
