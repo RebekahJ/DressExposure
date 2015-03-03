@@ -1,0 +1,266 @@
+{
+ "contributors": null, 
+ "truncated": false, 
+ "text": "RT @_Snape_: You're all idiots. #TheDress http://t.co/ztevESHRVX", 
+ "in_reply_to_status_id": null, 
+ "id": 571278579725688833, 
+ "favorite_count": 0, 
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+ "retweeted": false, 
+ "coordinates": null, 
+ "entities": {
+  "symbols": [], 
+  "user_mentions": [
+   {
+    "id": 304185486, 
+    "indices": [
+     3, 
+     11
+    ], 
+    "id_str": "304185486", 
+    "screen_name": "_Snape_", 
+    "name": "Professor Snape"
+   }
+  ], 
+  "hashtags": [
+   {
+    "indices": [
+     32, 
+     41
+    ], 
+    "text": "TheDress"
+   }
+  ], 
+  "urls": [], 
+  "media": [
+   {
+    "source_user_id": 304185486, 
+    "source_status_id_str": "571167241976324096", 
+    "expanded_url": "http://twitter.com/_Snape_/status/571167241976324096/photo/1", 
+    "display_url": "pic.twitter.com/ztevESHRVX", 
+    "url": "http://t.co/ztevESHRVX", 
+    "media_url_https": "https://pbs.twimg.com/media/B-0xlI_W0AA9r5v.png", 
+    "source_user_id_str": "304185486", 
+    "source_status_id": 571167241976324096, 
+    "id_str": "571167241884061696", 
+    "sizes": {
+     "large": {
+      "h": 431, 
+      "resize": "fit", 
+      "w": 599
+     }, 
+     "small": {
+      "h": 244, 
+      "resize": "fit", 
+      "w": 340
+     }, 
+     "medium": {
+      "h": 431, 
+      "resize": "fit", 
+      "w": 599
+     }, 
+     "thumb": {
+      "h": 150, 
+      "resize": "crop", 
+      "w": 150
+     }
+    }, 
+    "indices": [
+     63, 
+     64
+    ], 
+    "type": "photo", 
+    "id": 571167241884061696, 
+    "media_url": "http://pbs.twimg.com/media/B-0xlI_W0AA9r5v.png"
+   }
+  ]
+ }, 
+ "in_reply_to_screen_name": null, 
+ "in_reply_to_user_id": null, 
+ "retweet_count": 46222, 
+ "id_str": "571278579725688833", 
+ "favorited": false, 
+ "retweeted_status": {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "You're all idiots. #TheDress http://t.co/ztevESHRVX", 
+  "in_reply_to_status_id": null, 
+  "id": 571167241976324096, 
+  "favorite_count": 29850, 
+  "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      19, 
+      28
+     ], 
+     "text": "TheDress"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "http://twitter.com/_Snape_/status/571167241976324096/photo/1", 
+     "display_url": "pic.twitter.com/ztevESHRVX", 
+     "url": "http://t.co/ztevESHRVX", 
+     "media_url_https": "https://pbs.twimg.com/media/B-0xlI_W0AA9r5v.png", 
+     "id_str": "571167241884061696", 
+     "sizes": {
+      "large": {
+       "h": 431, 
+       "resize": "fit", 
+       "w": 599
+      }, 
+      "small": {
+       "h": 244, 
+       "resize": "fit", 
+       "w": 340
+      }, 
+      "medium": {
+       "h": 431, 
+       "resize": "fit", 
+       "w": 599
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      29, 
+      51
+     ], 
+     "type": "photo", 
+     "id": 571167241884061696, 
+     "media_url": "http://pbs.twimg.com/media/B-0xlI_W0AA9r5v.png"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 46222, 
+  "id_str": "571167241976324096", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "profile_text_color": "666666", 
+   "default_profile_image": false, 
+   "id": 304185486, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458746333055029248/ohq0uIMo.jpeg", 
+   "verified": false, 
+   "profile_location": null, 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000408529086/5108c0356be611a5509f3d869c2dbd3d_normal.jpeg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1287529, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "304185486", 
+   "profile_background_color": "000000", 
+   "listed_count": 4650, 
+   "is_translation_enabled": false, 
+   "utc_offset": 0, 
+   "statuses_count": 4694, 
+   "description": "There will be no foolish wand-waving or silly incantations in this Twitter feed.", 
+   "friends_count": 394, 
+   "location": "Snapchat: Snape-Chats", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000408529086/5108c0356be611a5509f3d869c2dbd3d_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458746333055029248/ohq0uIMo.jpeg", 
+   "name": "Professor Snape", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 220, 
+   "screen_name": "_Snape_", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue May 24 02:34:47 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": "London", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Fri Feb 27 04:37:36 +0000 2015", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "metadata": {
+   "iso_language_code": "en", 
+   "result_type": "recent"
+  }
+ }, 
+ "user": {
+  "follow_request_sent": false, 
+  "profile_use_background_image": true, 
+  "profile_text_color": "333333", 
+  "default_profile_image": false, 
+  "id": 3029282007, 
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+  "verified": false, 
+  "profile_location": null, 
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/565340164143452160/mJRdP93e_normal.jpeg", 
+  "profile_sidebar_fill_color": "DDEEF6", 
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  }, 
+  "followers_count": 37, 
+  "profile_sidebar_border_color": "C0DEED", 
+  "id_str": "3029282007", 
+  "profile_background_color": "C0DEED", 
+  "listed_count": 1, 
+  "is_translation_enabled": false, 
+  "utc_offset": null, 
+  "statuses_count": 112, 
+  "description": "you can follow my instagram. @beirne.96 byeee", 
+  "friends_count": 119, 
+  "location": "bikini bottom", 
+  "profile_link_color": "0084B4", 
+  "profile_image_url": "http://pbs.twimg.com/profile_images/565340164143452160/mJRdP93e_normal.jpeg", 
+  "following": false, 
+  "geo_enabled": false, 
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3029282007/1423705892", 
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+  "name": "John\u2716\ufe0f", 
+  "lang": "en", 
+  "profile_background_tile": false, 
+  "favourites_count": 29, 
+  "screen_name": "Beirne96", 
+  "notifications": false, 
+  "url": null, 
+  "created_at": "Wed Feb 11 02:37:10 +0000 2015", 
+  "contributors_enabled": false, 
+  "time_zone": null, 
+  "protected": false, 
+  "default_profile": true, 
+  "is_translator": false
+ }, 
+ "geo": null, 
+ "in_reply_to_user_id_str": null, 
+ "possibly_sensitive": false, 
+ "lang": "en", 
+ "created_at": "Fri Feb 27 12:00:01 +0000 2015", 
+ "in_reply_to_status_id_str": null, 
+ "place": null, 
+ "metadata": {
+  "iso_language_code": "en", 
+  "result_type": "recent"
+ }
+}
